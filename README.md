@@ -4,8 +4,8 @@
 
 The project is divided into two main directories:
 
-- **backend**: Contains the Python backend responsible for image tagging, geolocation detection, and API services.
-- **frontend**: Houses the React/Node.js frontend for user interaction and media library management.
+- **backend**: Python backend responsible for image tagging, geolocation detection, and API services.
+- **frontend**: React/Node.js frontend for user interaction and media library management.
 
 ## Installation
 
@@ -26,5 +26,5 @@ The project is divided into two main directories:
    cd frontend
    
 2. Install Node.js dependencies using npm:
-  ```bash
-  npm install
+   ```bash
+   npm install
